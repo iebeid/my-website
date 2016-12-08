@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--
+/* 
+    Author     : Islam Akef Ebeid
+*/
+-->
+<html>
+    <head>
+        <title>XLPM Map Viewer</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="js/d3.v3.min.js"></script>
+        <script src="js/taffy.js"></script>
+        <script src="js/orange.js"></script>
+        <style>@import url(apple.css);</style>
+    </head>
+    <body>
+        <header>
+            <div class="module">XLPM Map Viewer</div>
+        </header>
+        <nav>
+            <div class="module">
+                <div>
+                Please choose fasta file to parse
+                <input type="file" id="fastafile"/>
+                </div><br/>
+                <div>
+                Please choose data file to parse
+                <input type="file" id="datafile"/>
+                </div><br/>
+                <div>
+                <button id="mainButton" type="button" onclick="main(fastaText, dataText)">Visualize</button>
+                <button type="button" onclick="clearSVG()">Clear</button>
+                </div>
+            </div>
+        </nav>
+        <section>
+            <div id="vis" class="module">
+            </div>
+        </section>
+        <footer>
+            <div class="module">
+                Copyright © 2015 Mihir Jaiswal & Islam Akef Ebeid 
+            </div>
+        </footer>
+    </body>
+</html>
