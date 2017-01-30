@@ -3,13 +3,14 @@
     <head>
         <meta charset="UTF-8">
         <title>Islam Akef Ebeid</title>
-        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="images/ebeid.ico" type="image/x-icon" />
         <style>@import url(css/style.css);</style>
     </head>
     <body>
         <header>
             <div style="float: left; width: 200px; height:150px; margin: 0px; padding: 0px;"> <img width="150px" height="150px" src="images/personal/islam.jpg"/> </div>
-            <div style="float: left; width: 500px; height:150px; margin: 0px; padding: 0px;"> <p>Islam Akef Ebeid</p> 
+            <div style="float: left; width: 500px; height:150px; margin: 0px; padding: 0px;"> 
+                <p>Islam Akef Ebeid</p> 
                 <div id="logo">
                     <script src="js/three.min.js"></script>
                     <script src="js/logo.js"></script>
@@ -41,8 +42,8 @@
                             echo "<fieldset style='border: 0;'>";
                             echo "<div style='width: 800px; height: 100px;'>";
                             echo "<div style='width: 100px; height: 100px; float: left;'><img width='100px' height='100px' src='" . $row['thumbnail'] . "'/></div>";
-                            echo "<div style='width: 680px;  height: 30px; float: right;'><b>" . $row['title'] . "</b></div>";
-                            echo "<div style='width: 680px;  height: 60px; float: right;'>" . $row['short_description'] . "</div>";
+                            echo "<div style='width: 680px;  height: 20px; float: right;'><b>" . $row['title'] . "</b></div>";
+                            echo "<div style='width: 680px;  height: 70px; float: right;'>" . $row['short_description'] . "</div>";
                             echo "<div style='width: 680px;  height: 10px; float: right;'><a target='_blank' href='" . $row['url'] . "'>github</a>";
                             if ($row['video'] != NULL) {
                                 echo "  <a target='_blank' href='" . $row['video'] . "'>video</a>";
@@ -61,6 +62,7 @@
             </div>
         </section>            
         <section>
+            <hr/>
             <div id="content" class="module"><h1>Xpress Integration</h1>
                 <?php
                 if ($result = $mysqli->query("SELECT * FROM projects where type = 'Professional' and organizations_id = 6")) {
@@ -69,8 +71,8 @@
                             echo "<fieldset style='border: 0;'>";
                             echo "<div style='width: 800px; height: 100px;'>";
                             echo "<div style='width: 100px; height: 100px; float: left;'><img width='100px' height='100px' src='" . $row['thumbnail'] . "'/></div>";
-                            echo "<div style='width: 680px;  height: 30px; float: right;'><b>" . $row['title'] . "</b></div>";
-                            echo "<div style='width: 680px;  height: 60px; float: right;'>" . $row['short_description'] . "</div>";
+                            echo "<div style='width: 680px;  height: 20px; float: right;'><b>" . $row['title'] . "</b></div>";
+                            echo "<div style='width: 680px;  height: 70px; float: right;'>" . $row['short_description'] . "</div>";
                             echo "<div style='width: 680px;  height: 10px; float: right;'><a target='_blank' href='" . $row['url'] . "'>github</a>";
                             if ($row['video'] != NULL) {
                                 echo "  <a target='_blank' href='" . $row['video'] . "'>video</a>";
@@ -89,6 +91,7 @@
             </div>
         </section>
         <section>
+            <hr/>
             <div id="content" class="module"><h1>Orange Telecom</h1>
                 <?php
                 if ($result = $mysqli->query("SELECT * FROM projects where type = 'Professional' and organizations_id = 5")) {
@@ -97,8 +100,8 @@
                             echo "<fieldset style='border: 0;'>";
                             echo "<div style='width: 800px; height: 100px;'>";
                             echo "<div style='width: 100px; height: 100px; float: left;'><img width='100px' height='100px' src='" . $row['thumbnail'] . "'/></div>";
-                            echo "<div style='width: 680px;  height: 30px; float: right;'><b>" . $row['title'] . "</b></div>";
-                            echo "<div style='width: 680px;  height: 60px; float: right;'>" . $row['short_description'] . "</div>";
+                            echo "<div style='width: 680px;  height: 20px; float: right;'><b>" . $row['title'] . "</b></div>";
+                            echo "<div style='width: 680px;  height: 70px; float: right;'>" . $row['short_description'] . "</div>";
                             echo "<div style='width: 680px;  height: 10px; float: right;'><a target='_blank' href='" . $row['url'] . "'>github</a>";
                             if ($row['video'] != NULL) {
                                 echo "  <a target='_blank' href='" . $row['video'] . "'>video</a>";
@@ -117,6 +120,7 @@
             </div>
         </section>
         <section>
+            <hr/>
             <div id="content" class="module"><h1>Wedo Technologies</h1>
                 <?php
                 if ($result = $mysqli->query("SELECT * FROM projects where type = 'Professional' and organizations_id = 4")) {
@@ -125,8 +129,8 @@
                             echo "<fieldset style='border: 0;'>";
                             echo "<div style='width: 800px; height: 100px;'>";
                             echo "<div style='width: 100px; height: 100px; float: left;'><img width='100px' height='100px' src='" . $row['thumbnail'] . "'/></div>";
-                            echo "<div style='width: 680px;  height: 30px; float: right;'><b>" . $row['title'] . "</b></div>";
-                            echo "<div style='width: 680px;  height: 60px; float: right;'>" . $row['short_description'] . "</div>";
+                            echo "<div style='width: 680px;  height: 20px; float: right;'><b>" . $row['title'] . "</b></div>";
+                            echo "<div style='width: 680px;  height: 70px; float: right;'>" . $row['short_description'] . "</div>";
                             echo "<div style='width: 680px;  height: 10px; float: right;'><a target='_blank' href='" . $row['url'] . "'>github</a>";
                             if ($row['video'] != NULL) {
                                 echo "  <a target='_blank' href='" . $row['video'] . "'>video</a>";
@@ -145,6 +149,7 @@
             </div>
         </section>
         <section>
+            <hr/>
             <div id="content" class="module"><h1>Vodafone</h1>
                 <?php
                 if ($result = $mysqli->query("SELECT * FROM projects where type = 'Professional' and organizations_id = 8")) {
@@ -153,8 +158,8 @@
                             echo "<fieldset style='border: 0;'>";
                             echo "<div style='width: 800px; height: 100px;'>";
                             echo "<div style='width: 100px; height: 100px; float: left;'><img width='100px' height='100px' src='" . $row['thumbnail'] . "'/></div>";
-                            echo "<div style='width: 680px;  height: 30px; float: right;'><b>" . $row['title'] . "</b></div>";
-                            echo "<div style='width: 680px;  height: 60px; float: right;'>" . $row['short_description'] . "</div>";
+                            echo "<div style='width: 680px;  height: 20px; float: right;'><b>" . $row['title'] . "</b></div>";
+                            echo "<div style='width: 680px;  height: 70px; float: right;'>" . $row['short_description'] . "</div>";
                             echo "<div style='width: 680px;  height: 10px; float: right;'><a target='_blank' href='" . $row['url'] . "'>github</a>";
                             if ($row['video'] != NULL) {
                                 echo "  <a target='_blank' href='" . $row['video'] . "'>video</a>";
@@ -173,6 +178,7 @@
             </div>
         </section>
         <section>
+            <hr/>
             <div id="content" class="module"><h1>Freelance</h1>
                 <?php
                 if ($result = $mysqli->query("SELECT * FROM projects where type = 'Professional' and organizations_id = 1")) {
@@ -181,8 +187,8 @@
                             echo "<fieldset style='border: 0;'>";
                             echo "<div style='width: 800px; height: 100px;'>";
                             echo "<div style='width: 100px; height: 100px; float: left;'><img width='100px' height='100px' src='" . $row['thumbnail'] . "'/></div>";
-                            echo "<div style='width: 680px;  height: 30px; float: right;'><b>" . $row['title'] . "</b></div>";
-                            echo "<div style='width: 680px;  height: 60px; float: right;'>" . $row['short_description'] . "</div>";
+                            echo "<div style='width: 680px;  height: 20px; float: right;'><b>" . $row['title'] . "</b></div>";
+                            echo "<div style='width: 680px;  height: 70px; float: right;'>" . $row['short_description'] . "</div>";
                             echo "<div style='width: 680px;  height: 10px; float: right;'><a target='_blank' href='" . $row['url'] . "'>github</a>";
                             if ($row['video'] != NULL) {
                                 echo "  <a target='_blank' href='" . $row['video'] . "'>video</a>";
