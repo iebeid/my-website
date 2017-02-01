@@ -81,22 +81,34 @@
                                     </fieldset></div>
                                 <div class="divTableCell"><fieldset style="border: 0;"><legend><b>Code</b></legend>
                                         <p>
-                                            <a href="https://github.com/iebeid" target="_blank"><img width="50px" height="50px" src="images/social/1481140703_mark-github.png" alt="Github"/></a>
-                                            <a href="https://bitbucket.org/iaebeid/" target="_blank"><img width="50px" height="50px" src="images/social/bitbucket.png" alt="Bitbucket"/></a>
-                                            <a href="http://stackoverflow.com/users/5012284/akef?tab=profile" target="_blank"><img width="50px" height="50px" src="images/social/1481094411_stackoverflow.png" alt="Stack Overflow"/></a>
-                                            <a href="https://software.intel.com/partner/app/dashboard?locale=en-us" target="_blank"><img width="50px" height="50px" src="images/social/intel.png" alt="Intel"/></a>
+                                            <a href="https://github.com/iebeid" target="_blank" title="Github"><img width="50px" height="50px" src="images/social/1481140703_mark-github.png" alt="Github"/></a>
+                                            <a href="https://bitbucket.org/iaebeid/" target="_blank" title="Bitbucket"><img width="50px" height="50px" src="images/social/bitbucket.png" alt="Bitbucket"/></a>
                                         </p>
                                     </fieldset></div>
                             </div>
                             <div class="divTableRow">
-                                <div class="divTableCell"><fieldset style="border: 0;"><legend><b>Educational tools I use</b></legend>
+                                <div class="divTableCell"><fieldset style="border: 0;"><legend><b>Companies I worked for</b></legend>
                                         <p>
-                                            <a href="https://prezi.com/user/mmtnrbrwtz9t/" target="_blank">Prezi</a><br/>
-                                            <a href="https://www.khanacademy.org/profile/kaid_868273694547433415805526/" target="_blank">Khan Academy</a><br/>
-                                            <a href="https://www.duolingo.com/IslamAkefE" target="_blank">Duolingo</a><br/>
-                                            <a href="https://nvidia.qwiklab.com/dashboard" target="_blank">Qwiklab</a><br/>
-                                            <a href="https://courses.edx.org/" target="_blank">Edx</a><br/>
-                                            <a href="https://www.coursera.org/user/i/8b0d8962eafa196a205036ddfa7539b4" target="_blank">Coursera</a><br/>
+                                            <a href="http://www.intel.com/content/www/us/en/homepage.html" target="_blank">Intel</a><br/>
+                                            <a href="https://inaboard.ark.org/" target="_blank">Information Network of Arkansas</a><br/>
+                                            <a href="http://www.wedotechnologies.com/en/" target="_blank">Wedo Technologies</a><br/>
+                                            <a href="https://www.orange.com/en/home" target="_blank">Orange Telecom</a><br/>
+                                            <a href="http://www.xpressintegration.com/" target="_blank">Xpress Integration</a><br/>
+                                            <a href="http://www.iam.ma/index.aspx" target="_blank">Maroc Telecom</a><br/>
+                                            <a href="https://www.tunisietelecom.tn/Fr" target="_blank">Tunisie Telecom</a><br/>
+                                            <a href="http://hannainst.com/" target="_blank">Hanna Instruments</a><br/>
+                                            <a href="http://gizasystems.com/" target="_blank">Giza Systems</a><br/>
+                                            <a href="https://www.vodafone.com/content/index.html" target="_blank">Vodafone</a><br/>
+                                        </p>
+                                    </fieldset>
+                                </div>
+                                <div class="divTableCell"><fieldset style="border: 0;"><legend><b>Universities & Schools I attended</b></legend>
+                                        <p>
+                                            <a href="http://ualr.edu/" target="_blank">University of Arkansas at Little Rock</a><br/>
+                                            <a href="http://www.atu.edu/" target="_blank">Arkansas Tech University</a><br/>
+                                            <a href="http://www.asu.edu.eg/" target="_blank">Ain Shams University</a><br/>
+                                            <a href="http://www.esc-obog.org/" target="_blank">The English School in Cairo</a><br/>
+                                            <a href="https://www.facebook.com/ThebesNews/" target="_blank">Thebes Language School</a><br/>
                                         </p>
                                     </fieldset>
                                 </div>
@@ -107,22 +119,22 @@
             </div>
         </section>
         <footer>
-            <div id="logo"><br/><br/>
+            <div id="logo"><br/><br/><br/><br/>
                 <fieldset style="border: 0;">
-                    <a href="https://www.facebook.com/i3akef" target="_blank"><img width="30px" height="30px" src="images/social/1481140735_facebook.png"/></a>
-                    <a href="https://twitter.com/i3akef" target="_blank"><img width="30px" height="30px" src="images/social/1481140753_twitter.png"/></a>
-                    <a href="https://plus.google.com/+IslamAkefEbeid" target="_blank"><img width="30px" height="30px" src="images/social/1481140811_google.png"/></a>
-                    <a href="https://www.instagram.com/i3akef/" target="_blank"><img width="30px" height="30px" src="images/social/1481140739_instagram.png"/></a>
-                    <a href="https://www.quora.com/profile/Islam-Akef-Ebeid" target="_blank"><img width="30px" height="30px" src="images/social/1481153253_quora.png"/></a>
-                    <a href="https://www.linkedin.com/in/i3akef" target="_blank"><img width="30px" height="30px" src="images/social/1481153224_linkedin_circle_black.png"/></a>
-                    <a href="https://www.youtube.com/channel/UCI1m48CMEqYyD2MoLsHhDjw" target="_blank"><img width="30px" height="30px" src="images/social/1481140818_youtube.png"/></a>
-                    <a href="https://profile.live.com/cid-8a026a31401737af/Messenger" target="_blank"><img width="30px" height="30px" src="images/social/microsoft.png"/></a>
-                    <a href="skype:islam.akef?userinfo" target="_blank"><img width="30px" height="30px" src="images/social/skype.png"/></a>
-                    <a data-rel="external" href="tel:+14796921854" target ="_blank"><img width="30px" height="30px" src="images/social/whatsapp.png"/></a>
+                    <a href="https://www.facebook.com/i3akef" target="_blank" title="Facebook"><img width="30px" height="30px" src="images/social/1481140735_facebook.png"/></a>
+                    <a href="https://twitter.com/i3akef" target="_blank" title="Twitter"><img width="30px" height="30px" src="images/social/1481140753_twitter.png"/></a>
+                    <a href="https://plus.google.com/+IslamAkefEbeid" target="_blank" title="Google+"><img width="30px" height="30px" src="images/social/1481140811_google.png"/></a>
+                    <a href="https://www.instagram.com/i3akef/" target="_blank" title="Instagram"><img width="30px" height="30px" src="images/social/1481140739_instagram.png"/></a>
+                    <a href="https://www.quora.com/profile/Islam-Akef-Ebeid" target="_blank" title="Quora"><img width="30px" height="30px" src="images/social/1481153253_quora.png"/></a>
+                    <a href="https://www.linkedin.com/in/i3akef" target="_blank" title="Linkedin"><img width="30px" height="30px" src="images/social/1481153224_linkedin_circle_black.png"/></a>
+                    <a href="https://www.youtube.com/channel/UCI1m48CMEqYyD2MoLsHhDjw" target="_blank" title="Youtube"><img width="30px" height="30px" src="images/social/1481140818_youtube.png"/></a>
+                    <a href="https://profile.live.com/cid-8a026a31401737af/Messenger" target="_blank" title="Microsoft Live"><img width="30px" height="30px" src="images/social/microsoft.png"/></a>
+                    <a href="skype:islam.akef?userinfo" target="_blank" title="Skype"><img width="30px" height="30px" src="images/social/skype.png"/></a>
+                    <a data-rel="external" href="tel:+14796921854" target ="_blank" title="WhatsApp Phone Number"><img width="30px" height="30px" src="images/social/whatsapp.png"/></a>
                 </fieldset>
                 <p>
                     Copyright © 2016 <a href="mailto:islam.akef@gmail.com" target ="_blank">Islam Akef Ebeid</a><br/>
-                    <a href="http://miicard.me/c9KTg86F" target="_blank">Identity assured by miiCard : Click to Verify</a>
+                    <a href="http://miicard.me/c9KTg86F" target="_blank" title="Mii Card">Identity assured by miiCard : Click to Verify</a>
                 </p>
             </div>
         </footer>
